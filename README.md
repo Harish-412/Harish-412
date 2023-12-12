@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harish-412
-- 👀 I’m interested in PHP and Laravel
-- 🌱 I’m currently learning Basic of PHP and Laravel
+- 👀 I have Experience in Web App Developmentusing React JS as a Front End.
+- 🌱 I am Specialized in HTML, CSS, JavaScript, React JS, PHP & Laravel.
 - 📫 How to reach me sharish4122001@gmail.com
 
 <!---
