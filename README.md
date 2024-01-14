@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harish-412
-- 👀 I have Experience in Web App Developmentusing React JS as a Front End.
+- 👀 I have Experience in Web App Development using React JS as a Front End.
 - 🌱 I am Specialized in HTML, CSS, JavaScript, React JS, PHP & Laravel.
 - 📫 How to reach me sharish4122001@gmail.com
 
